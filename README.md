@@ -1,2 +1,2 @@
-# Team-Echo_Libra-Wins-Horoscope-Analysis-to-Billionaires-on-Forbes-List
-Team Echo_Libra Wins? Horoscope Analysis to Billionaires on Forbes’ List
+# Visual Analysis of Billionaire Horoscope - Take Forbes Billionaire List Top 300 as an example
+Visual Analysis of Billionaire Horoscope - Take Forbes Billionaire List Top 300 as an example
